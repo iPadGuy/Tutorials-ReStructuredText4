@@ -13,7 +13,6 @@ Welcome to Bananas's documentation!
    sample
 
 
-
 Indices and tables
 ==================
 
